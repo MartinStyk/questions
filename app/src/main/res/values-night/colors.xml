@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="odd_name_color">#FFFFFF00</color>
+    <color name="even_name_color">#FF0FF000</color>
+</resources>
